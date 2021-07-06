@@ -2,6 +2,31 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+nav{
+    width: 100%;
+    background-color: black;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+}
+ul{
+    padding: 0;
+    margin-bottom: 0;
+    list-style-type: none;
+}
+li{
+    float: left;
+}
+.aclass
+{
+    padding: 20px;
+    width: 100px;
+    display: block;
+    text-decoration: none;
+    color: blanchedalmond;
+    text-transform: uppercase;
+    font-weight: bold;
+}
 h1{
     font-size: 50px;
 }
